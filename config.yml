@@ -1,0 +1,11 @@
+# Craftable Elytra v1.0
+# Made by cluter123
+# Support: Message me @ https://bukkit.org/members/cluter123.90802646/
+
+
+# Name of the crafted elytra. <Includes colors!!>
+name: '&4Elytra'
+# Lore of the crafted elytra.
+lore: '&c&oCrafted item'
+# Message sent to the player on join.
+message: '&aAn elytra can be crafted with six stone pressure plates and a stick!'
